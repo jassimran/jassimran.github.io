@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: How can we make the content on Youtube safer?
 ---
 
 
