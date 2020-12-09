@@ -12,11 +12,13 @@ title: How can we make the content on Youtube safer?
 
 ## Problem Overview
 
+> Over the last 6 months there has been a <a href="https://www.business-standard.com/article/technology/youtube-sees-surge-in-subscriber-base-views-due-to-covid-19-lockdown-120042100710_1.html">98% increase</a> in the viewership of COVID related videos. Study shows that <a href="https://www.sciencedaily.com/releases/2020/05/200513200408.htm">1 in 4 videos</a> contain misinformation.
+
 - Plethora of unsafe content varies, includes abusive content, violence, impersonation, deep fakes, hate speech, NSFW, misinformation, and child unsafe content amongst others
 
 - Presence of high volumes of heterogeneous multimodal data including videos with audio, images, natural language description, community populated contents 
 
-> Over the last 6 months there has been a <a href="https://www.business-standard.com/article/technology/youtube-sees-surge-in-subscriber-base-views-due-to-covid-19-lockdown-120042100710_1.html">98% increase</a> in the viewership of COVID related videos. Study shows that <a href="https://www.sciencedaily.com/releases/2020/05/200513200408.htm">1 in 4 videos</a> contain misinformation.
+
 
 ## Proposed System
 
