@@ -31,9 +31,13 @@ Detect the following kind of videos
 - **Pornographic content**: Content displaying nudity and sexual content, especially if targeted at kids or sensitive content where intent is good but consumption can be harmful like massage
 - **Others**: Spam, Dangerous content, Misinformation etc. 
 
-![placeholder](../images/detailed_system.png "Detailed System")
+<img src="../images/detailed_system.png" alt="Detailed system" width="1200"/>
 
 ## Results
+
+<center>
+<img src="../images/results.png" alt="Detailed system" width="500"/>
+</center>
 
 ![placeholder](../images/results.png "Detailed System")
 
