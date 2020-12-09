@@ -39,7 +39,6 @@ Detect the following kind of videos
 <img src="../images/results.png" alt="Detailed system" width="500"/>
 </center>
 
-![placeholder](../images/results.png "Detailed System")
 
 ## Business Applications
 
