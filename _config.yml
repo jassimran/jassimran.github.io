@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 title:            Jassimran Kaur
 tagline:          'A Woman Scientist'
-description:      'Machine Learning Technical Lead at BBTV'
-url:              http://hyde.getpoole.com
+description:      'Senior Research Engineer at BBTV'
+url:              https://www.bbtv.com/
 baseurl:          /
 
 author:
