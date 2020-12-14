@@ -5,6 +5,10 @@ title: How can we make the content on Youtube safer?
 
 
 <div class="message">
+  <b>Accepted to WiML workshop co-located with NeurIPS 2020, poster [here](https://drive.google.com/file/d/1Clrz-LOJhE23lLCvzTZgump7UUQKo_hL/view).</b>
+</div>
+
+<div class="message">
 <b><u>Aim</u></b>: A large scale ML system which generates a multi-label output (a summary of video) and helps filter out various forms of inappropriate content with high precision and throughput
 </div>
 
