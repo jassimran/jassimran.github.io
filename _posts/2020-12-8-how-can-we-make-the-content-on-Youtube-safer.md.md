@@ -5,7 +5,7 @@ title: How can we make the content on Youtube safer?
 
 
 <div class="message">
-  Accepted to WiML workshop co-located with NeurIPS 2020, poster [ink](https://drive.google.com/file/d/1Clrz-LOJhE23lLCvzTZgump7UUQKo_hL/view)
+  <i>Accepted to WiML workshop co-located with NeurIPS 2020, poster <a href="https://drive.google.com/file/d/1Clrz-LOJhE23lLCvzTZgump7UUQKo_hL/view">link</a></i>
 </div>
 
 <div class="message">
